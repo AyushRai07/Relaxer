@@ -1,10 +1,7 @@
 # 🌬️ Relaxer App
 
-A simple breathing animation app to help you relax and reduce stress.
+A simple breathing animation project to help you relax and reduce stress.
 
-![Preview](bg.jpg)
-
----
 
 ## ✨ Features
 
